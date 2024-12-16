@@ -1,0 +1,1 @@
+mysql -u root -p outfits_db < filename/path/latest.sql
